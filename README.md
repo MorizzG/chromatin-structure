@@ -1,1 +1,1 @@
-Source code for bachelor thesis "Comparison of 3-dimensional genome structures based on single cell Hi-C data" of Moritz Gmeiner at JGU Mainz.
+Source code for bachelor thesis "Comparison of 3-dimensional genome structures based on single cell Hi-C data".
